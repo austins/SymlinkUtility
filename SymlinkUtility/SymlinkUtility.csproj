@@ -51,7 +51,7 @@
     </StartupObject>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>icoInsertLink.ico</ApplicationIcon>
+    <ApplicationIcon>picInsertLink.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup />
   <ItemGroup>
@@ -125,6 +125,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="icoInsertLink.ico" />
+    <Content Include="picInsertLink.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
